@@ -1,3 +1,6 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+?>
 <!doctype html>
 <html lang="en">
 
@@ -29,7 +32,7 @@
 
             <!-- Brand -->
             <a class="navbar-brand js-scroll-trigger" href="#page-top">
-                <h2>Coral</h2>
+                <h2>Portfolio - Julien Fouksmann</h2>
             </a>
 
             <!-- Toggler -->
@@ -107,7 +110,7 @@
 
                         <!-- Heading -->
                         <h1 class="text-white text-center mb-4 display-4 font-weight-bold">
-                            I am a UI/UX Designer <br>& Developer
+                            Responsable Informatique <br>& Chef de Projet
                         </h1>
 
                         <!-- Subheading -->
@@ -117,8 +120,8 @@
 
                         <!-- Button -->
                         <p class="text-center mb-0" >
-                            <a href="#" target="_blank" class="btn btn-primary ">
-                                Contact Now
+                            <a href="#contact" target="_blank" class="btn btn-primary ">
+                                Contacter Moi
                             </a>
                         </p>
                     </div>
@@ -635,7 +638,7 @@
 
                             <div class="col-lg-12">
                                 <div class="submit text-center">
-                                    <input name="submit" type="submit" class="btn btn-primary btn-lg" value="Submit Now">
+                                    <input name="submit" type="submit" class="btn btn-primary btn-lg" value="Envoyer">
                                     <p class="pt-3">* We will not spam on you inbox.</p>
                                 </div>
                             </div>
@@ -657,7 +660,7 @@
                     <div class="footer-widget">
                         <!-- Brand -->
                         <a href="#" class="footer-brand text-white">
-                            Coral
+                            Porfolio - Julien Fouksmann
                         </a>
                         <p>In expedita sapiente cumque enim dicta similique, animi adipisci quia et quo quod numquam, veniam eligendi reprehenderit .</p>
                     </div>
@@ -695,7 +698,7 @@
                             <i class="fa fa-location-arrow"></i> Orléans , France
                         </li>
                         <li>
-                            <i class="fa fa-globe"></i> www.themeturn.com
+                            <i class="fa fa-globe"></i> www.julienfouksmann.fr
                         </li>
                     </ul>
                 </div>
@@ -704,7 +707,7 @@
 
             <div class="row justify-content-md-center footer-copy">
                 <div class="col-lg-8 col-md-6 col-sm-6 text-center">
-                    <p class="lead text-white-50">&copy; Copyright Reserved to Themeturn | Design and Developed by Esrat </p>
+                    <p class="lead text-white-50">&copy; Copyright Reserved to Julien Fouksmann | Design and Developed by Julien Fouksmann </p>
                 </div>
             </div>
         </div>
