@@ -601,7 +601,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
             <div class="row justify-content-center">
                 <div class="col-lg-8">
-                    <form action="mail.php" method="post" id="main_contact_form" class="contact__form">
+                    <form action="index.php/mail" method="post" id="main_contact_form" class="contact__form">
                         <!-- form message -->
                             <div class="row">
                                 <div class="col-12">
